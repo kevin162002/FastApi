@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e57612e7-f9a9-47ed-96c3-2a1c37ef5773/resourceGroups/FastApi/providers/Microsoft.Web/sites/demofast",
+    "appService.deploySubpath": "."
+}
